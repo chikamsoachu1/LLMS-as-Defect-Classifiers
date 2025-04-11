@@ -148,10 +148,10 @@ def main():
     gemini_model = initialize_gemini()
     model_name = 'gemini-1.5-flash'
     # Define folders
-    good_folder = 'C:/Users/chika/Downloads/Wood stuff/no defect'
-    scratch_folder = "C:/Users/chika/Downloads/Wood stuff/scratch"
-    liquid_folder = "C:/Users/chika/Downloads/Wood stuff/liquid"
-    hole_folder = "C:/Users/chika/Downloads/Wood stuff/hole"
+    good_folder = #folder path
+    scratch_folder = #folder path
+    liquid_folder = #folder path
+    hole_folder = #folder path
 
 
    
