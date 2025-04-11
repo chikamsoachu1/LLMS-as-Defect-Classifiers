@@ -208,10 +208,10 @@ def main():
     model_name = 'gemini-pro-vision' # Make sure this is the correct model name
 
     # Define folders
-    good_folder = #folder link
-    scratch_folder = #folder link
-    liquid_folder = #folder link
-    hole_folder = #folder link
+    good_folder = #folder path
+    scratch_folder =#folder path
+    liquid_folder = #folder path
+    hole_folder = #folder path
     print("p1")
     # Select a few example images for each class (adjust the number as needed)
     num_examples = 1
