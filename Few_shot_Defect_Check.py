@@ -208,10 +208,10 @@ def main():
     model_name = 'gemini-pro-vision' # Make sure this is the correct model name
 
     # Define folders
-    good_folder = 'C:/Users/chika/Downloads/Wood stuff/no defect'
-    scratch_folder = "C:/Users/chika/Downloads/Wood stuff/scratch"
-    liquid_folder = "C:/Users/chika/Downloads/Wood stuff/liquid"
-    hole_folder = "C:/Users/chika/Downloads/Wood stuff/hole"
+    good_folder = #folder link
+    scratch_folder = #folder link
+    liquid_folder = #folder link
+    hole_folder = #folder link
     print("p1")
     # Select a few example images for each class (adjust the number as needed)
     num_examples = 1
